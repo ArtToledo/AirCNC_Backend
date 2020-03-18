@@ -12,7 +12,7 @@
      
 -> Objetivo: 
      
-     Integração com o banco de dados MongoDB para criação de posts, dar likes, e consumo dos dados;
+     Integração com o banco de dados MongoDB para criação de usuários, spots e bookings/reservas dentro do mesmo;
      
      Criação de uma API capaz de fornecer todos os dados necessários para utilização e exibição dos mesmos nos clientes Web e Mobile, utilizando o padrão de projetos MVC para models para tratar a parte de banco de dados, views não sendo necessário para o projeto em si e os controllers para servir como função sempre que uma rota é chamada.
      
