@@ -2,7 +2,7 @@
 ###### Backend em Node.js criado durante a semana de programação fullstack fornecida pela empresa Rocketseat.
 
 
--> Principais bibliotecas instaladas: Express, mongoose, multer, sharp e socket.io
+-> Principais bibliotecas instaladas: Express, mongoose e multer
 
      Express - Utilizado para a criação/inicialização do servidor afim de fornecer uma resposta através das requisições feitas; 
      
